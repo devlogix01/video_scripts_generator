@@ -1,6 +1,6 @@
 # 🎬 视频脚本生成器 Video Script Generator
 
-!(示例图片)(images/88edcaa9-3081-434f-9585-3a4f7efa3c6a.png)
+![项目的截图](images/88edcaa9-3081-434f-9585-3a4f7efa3c6a.png)
 
 [English](#english) | [中文](#chinese)
 
